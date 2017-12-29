@@ -8,8 +8,9 @@ page_class: ""
 
 # hero section
 hero:
-  above-title: "Additional details"
-  title: "Frequently asked questions"
+  above-title: "FAQ"
+  title: "Additional details"
+  subtitle: "Answers to frequently asked questions below."
 # hero section
 
 # This page uses Kramdown for content
@@ -47,6 +48,7 @@ See the timline on the [about page]({{ site.baseurl }}{% link page-about.md %}).
 #### [#](#faq-6){:class="anchor-link" title="anchor link"} Apart from the stipend, am I eligible for other benefits?
 While this is a temporary fellowship, Azavea offers some additional benefits beyond the stipend, including:
 
+- Applicants that live outside the Philadelphia region will be eligible for assistance with relocation expenses
 - Public Transit reimbursement: We encourage people to use public transit as an alternative to a car. We will reimburse you for your monthly public transit costs up to a maximum of $230/month.
 - Bicycle reimbursement: If you use a bike instead of walking or public transit, we will reimburse you for their monthly bicycle costs for commuting (including repairs, helmet, or purchase price of the bicycle) up to a maximum of $20/month. (Please note that due to IRS regulations, this benefit is mutually exclusive with the public transit benefit).
 - Flex Time
